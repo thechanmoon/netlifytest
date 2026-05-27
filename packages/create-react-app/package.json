@@ -35,7 +35,7 @@
     "inquirer": "7.2.0",
     "semver": "7.3.2",
     "tar-pack": "3.4.1",
-    "tmp": "0.2.1",
+    "tmp": "0.2.6",
     "validate-npm-package-name": "3.0.0"
   }
 }
